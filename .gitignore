@@ -1,0 +1,5 @@
+# ignorujeme logy
+*.log 
+
+# ignoruje adresar temp
+temp/
